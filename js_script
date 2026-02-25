@@ -1,0 +1,7 @@
+<script type="text/javascript">
+    var num=10;
+    cansole.log(num);
+    cansole.log(typeof(num));
+    num=false;
+    cansole.log(num);
+    cansole.log(typeof(num));
